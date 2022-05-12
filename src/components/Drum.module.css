@@ -1,0 +1,7 @@
+.drumButtons{
+  display: grid;
+  grid-template-columns: repeat(3,50px);
+  grid-template-rows: repeat(3,50px);
+  gap: 2rem;
+  text-align: center;
+}

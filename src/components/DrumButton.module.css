@@ -1,0 +1,13 @@
+.drumPad{
+  padding: 20px;
+  font-size: 1.2rem;
+  padding-top: 12px;
+  padding-left: 17px;
+  background-color: darkgray;
+  /* width: 20px;
+  height: 20px; */
+}
+.drumPad:hover{
+  background-color: orange;
+  transform: scale(1.1);
+}

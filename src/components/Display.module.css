@@ -1,0 +1,12 @@
+.display{
+  text-align: center;
+}
+
+.display h2{
+  text-align: center;
+  width: 9rem;
+  height: 2rem;
+  align-self: center;
+  background-color: darkgray;
+  padding: 1rem;
+}
